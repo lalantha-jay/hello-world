@@ -17,10 +17,10 @@ TestExecListener.java | Generic test listener for printing test execution detail
 TestRunner.java | Main class for executing tests
 
 ## Directories
-hello-world/server/src/main/java/com/example
-hello-world/server/src/test/java/com/example
-hello-world/server/src/site/apt
-hello-world/webapp/src/main/webapp/
+* hello-world/server/src/main/java/com/example
+* hello-world/server/src/test/java/com/example
+* hello-world/server/src/site/apt
+* hello-world/webapp/src/main/webapp/
 
 ---
 
