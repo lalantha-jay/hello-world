@@ -10,10 +10,11 @@
 ## Files
 ---
 Program|Description
-Greet.java | Constructs a greeting
-TestGreet.java | Tests the Greet.java class by passing parameters
-
 ---|---
+Greeter.java | Constructs a greeting
+TestGreeter.java | Tests cases for testing Greeter
+TestExecListener.java | Generic test listener for printing test execution details
+TestRunner.java | Main class for executing tests
 
 ## Directories
 hello-world/server/src/main/java/com/example
