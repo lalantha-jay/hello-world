@@ -10,6 +10,9 @@
 ## Files
 ---
 Program|Description
+Greet.java | Constructs a greeting
+TestGreet.java | Tests the Greet.java class by passing parameters
+
 ---|---
 
 ## Directories
