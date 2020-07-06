@@ -4,10 +4,12 @@
          xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd"
          version="2.5">
   <display-name>Webapp</display-name>
-  <!--
+
   <servlet>
     <servlet-name>HelloWorldExample</servlet-name>
     <servlet-class>com.example.HelloWorldExample</servlet-class>
+  </servlet>
+  <servlet>
     <servlet-name>HelloServlet</servlet-name>
     <servlet-class>com.example.HelloServlet</servlet-class>
   </servlet>
@@ -15,8 +17,10 @@
   <servlet-mapping>
     <servlet-name>HelloWorldExample</servlet-name>
     <url-pattern>/hello</url-pattern>
-    <servlet-name>HellowServlet</servlet>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>HellowServlet</servlet-name>
     <url-pattern>/helloservlet</url-pattern>
   </servlet-mapping>
-  -->
+
 </web-app>
