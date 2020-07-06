@@ -9,7 +9,6 @@ import java.io.*;
 /**
  * Servlet implementation class HelloServlet
  */
-@WebServlet("/helloservlet")
 public class HelloServlet extends HttpServlet {
     private static final long serrialVersionUID = 1L;
 
