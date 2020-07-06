@@ -13,7 +13,7 @@ public class HelloServlet {
 
     @WebServlet("/helloServlet")
     public class HelloServlet extends HttpServlet {
-        private static final long serrialVersionUID = 1L
+        private static final long serrialVersionUID = 1L;
 
         /**
          * @see HttpServlet#HttpServlet()
