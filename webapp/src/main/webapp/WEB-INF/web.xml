@@ -23,7 +23,7 @@
   </servlet-mapping>
   -->
   <servlet-mapping>
-    <servlet-name>HellowServlet</servlet-name>
+    <servlet-name>HelloServlet</servlet-name>
     <url-pattern>/helloservlet</url-pattern>
   </servlet-mapping>
 
